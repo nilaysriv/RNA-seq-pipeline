@@ -2,7 +2,7 @@
 #Installation of required programs
 sudo apt -y update
 sudo apt -y upgrade
-sudo apt install curl wget fastqc hisat2 subread samtools default-jre unzip python3-pip build-essential python3-tk
+sudo apt install curl wget fastqc hisat2 subread samtools default-jre unzip python3-pip build-essential python3-tk eog thunar
 pip install pandas matplotlib seaborn scikit-learn
 
 #Trimmomatic
